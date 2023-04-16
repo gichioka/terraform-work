@@ -1,1 +1,1 @@
-terraformでGKEを実行。
+terraformでGKEを実行
